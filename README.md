@@ -61,9 +61,9 @@ Memory DB를 MySQL로 변환 - 02</br></br>
 
 
 10. Spring Boot Web 활용</br>
-・Filter 와 Interceptor</br>
-・Interceptor 적용</br>
-Spring AOP</br>
+Filter 와 Interceptor</br>
+Interceptor 적용
+Spring AOP
 Spring AOP Pointcut 문법</br></br>
 
 
