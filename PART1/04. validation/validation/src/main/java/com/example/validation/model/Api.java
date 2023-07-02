@@ -18,7 +18,6 @@ import java.util.List;
 public class Api<T> {
 
     private String resultCode;
-
     private String resultMessage;
 
     @Valid
