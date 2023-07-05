@@ -15,5 +15,5 @@ services:
       - MYSQL_DATABASE=mydb
       - MYSQL_ROOT_PASSWORD=root1234!!
       - TZ=Asia/Seoul
-    volumes:
-      - C:\Temp\MYSQL:/var/lib/mysql
+#    volumes:
+#      - C:\Temp\MYSQL:/var/lib/mysql
