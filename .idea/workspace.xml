@@ -4,7 +4,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8a971a-c701-4a12-b0ce-66e207a4c563" name="변경" comment="09. filter" />
+    <list default="true" id="af8a971a-c701-4a12-b0ce-66e207a4c563" name="변경" comment="10_crud">
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/src/main/java/com/example/cookie/CookieApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/src/main/java/com/example/cookie/controller/AccountApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/src/main/java/com/example/cookie/controller/UserApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/src/main/java/com/example/cookie/db/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/src/main/java/com/example/cookie/model/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/src/main/java/com/example/cookie/model/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/src/main/java/com/example/cookie/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 cookie/cookie/src/test/java/com/example/cookie/CookieApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/src/main/java/com/example/cookie/CookieApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/src/main/java/com/example/cookie/controller/AccountApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/src/main/java/com/example/cookie/controller/UserApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/src/main/java/com/example/cookie/db/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/src/main/java/com/example/cookie/model/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/src/main/java/com/example/cookie/model/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/src/main/java/com/example/cookie/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 header/header/src/test/java/com/example/cookie/CookieApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 jwt/jwt/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 jwt/jwt/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 jwt/jwt/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 jwt/jwt/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 jwt/jwt/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 jwt/jwt/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 jwt/jwt/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 jwt/jwt/src/main/java/com/example/jwt/JwtApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 jwt/jwt/src/main/java/com/example/jwt/service/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 jwt/jwt/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 jwt/jwt/src/test/java/com/example/jwt/JwtApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/src/main/java/com/example/session/SessionApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/src/main/java/com/example/session/controller/AccountApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/src/main/java/com/example/session/controller/UserApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/src/main/java/com/example/session/db/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/src/main/java/com/example/session/model/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/src/main/java/com/example/session/model/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/src/main/java/com/example/session/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PART2/ch01/ch-01 session/session/src/test/java/com/example/session/SessionApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +114,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/gongsang-ug/Desktop/git/SpringBootStudy/PART1",
+    "last_opened_file_path": "/Users/gongsang-ug/Desktop/git/SpringBootStudy/PART2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,11 +127,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PART2" />
       <recent name="$PROJECT_DIR$/PART1" />
       <recent name="$PROJECT_DIR$/PART1/08. simpleboard" />
       <recent name="$PROJECT_DIR$/PART1/07. jpa" />
       <recent name="$PROJECT_DIR$/PART1/07_01. memorydbToJpa" />
-      <recent name="$PROJECT_DIR$/PART1/06. docker-compose" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/PART1/04. validation" />
@@ -93,6 +157,9 @@
       <workItem from="1688645493847" duration="1091000" />
       <workItem from="1688819837108" duration="190000" />
       <workItem from="1689081354584" duration="479000" />
+      <workItem from="1689170099511" duration="33000" />
+      <workItem from="1689246977337" duration="7000" />
+      <workItem from="1689255655088" duration="466000" />
     </task>
     <task id="LOCAL-00001" summary="모듈화">
       <created>1688127565812</created>
@@ -157,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689081426505</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="10_crud">
+      <created>1689170119271</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1689170119271</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +258,7 @@
     <MESSAGE value="07. Jpa" />
     <MESSAGE value="08. simple-board" />
     <MESSAGE value="09. filter" />
-    <option name="LAST_COMMIT_MESSAGE" value="09. filter" />
+    <MESSAGE value="10_crud" />
+    <option name="LAST_COMMIT_MESSAGE" value="10_crud" />
   </component>
 </project>
